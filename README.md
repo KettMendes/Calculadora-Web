@@ -1,8 +1,9 @@
-# myapp
+Calculadora na web
 
-A new Flutter project.
+Aplicativo desenvolvido para atividade 3 - Desenvolvimento Web
+Professor: Ariangelo Dias - Talento Tech
 
-## Getting Started
+## Por: Kettellenn Mendes
 
 This project is a starting point for a Flutter application.
 
